@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Somobrita
-- 👀 I’m interested in Android Internals
-- 🌱 I’m currently learning Android Internals 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8013446932
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Android Studio and Backend(Springboot)
+- 💞️ I’m looking to collaborate on Flutter App Development
+- 📫 How to reach me 7044656690
 
 <!---
 Somobrita/Somobrita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
